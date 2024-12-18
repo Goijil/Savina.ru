@@ -10,7 +10,7 @@ import { Footer } from "./Footer";
 export function App() {
   return (
     <>
-      <div className="bg-DarkGreen h-full w-screen font-times-new-roman flex flex-col 2xl:gap-60 xl:gap-52 lg:gap-40 md:gap-36 sm:gap-28 gap-20">
+      <div className="bg-DarkGreen h-full w-full font-times-new-roman flex flex-col 2xl:gap-60 xl:gap-52 lg:gap-40 md:gap-36 sm:gap-28 gap-20">
         <NavBar />
         <Block_1 />
         <Block_3 />

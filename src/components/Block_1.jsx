@@ -4,11 +4,11 @@ export function Block_1() {
   return (
     <>
       <div className="flex flex-col 2xl:gap-40 xl:gap-36 lg:gap-32 md:gap-28 sm:gap-24 gap-20">
-        <h1 className="2xl:text-9xl 2xl:mt-[-6rem] xl:text-8xl xl:mt-[-4rem] lg:text-8xl lg:mt-[-4rem] md:text-7xl md:mt-[-3rem] sm:text-6xl sm:mt-[-2.5rem] text-5xl mt-[-2rem] text-white text-center font-Czizh absolute w-screen ">
+        <h1 className=" text-white text-center font-Czizh absolute w-full  2xl:text-9xl 2xl:mt-[-6rem] xl:text-8xl xl:mt-[-4rem] lg:text-8xl lg:mt-[-4rem] md:text-7xl md:mt-[-3rem] sm:text-6xl sm:mt-[-2.5rem] text-5xl mt-[-2rem] ">
           Психоаналитика
         </h1>
 
-        <div className="w-screen absolute flex justify-center 2xl:gap-96 xl:gap-80 lg:gap-72 md:gap-64 sm:gap-52 gap-40">
+        <div className="w-full absolute flex justify-center 2xl:gap-96 xl:gap-80 lg:gap-72 md:gap-64 sm:gap-52 gap-40">
           <div className="2xl:text-2xl xl:text-xl lg:text-lg md:text-base sm:text-sm text-sm  2xl:mt-24 xl:mt-20 lg:mt-16 md:mt-14 sm:mt-12 mt-10  min-w-max  text-white font-Cruinn">
             <h1>Ассоциированный член Московской</h1>
             <h1>Психоаналитической Ассоциации</h1>

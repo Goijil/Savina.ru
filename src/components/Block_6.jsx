@@ -1,8 +1,8 @@
 export function Block_6() {
   return (
     <>
-      <div id="4" className="w-screen bg-Beige flex flex-col justify-center">
-        <div className="w-screen p-10">
+      <div id="4" className="w- bg-Beige flex flex-col justify-center">
+        <div className="w-full p-10">
           <img
             src="public\test.jpg"
             alt="#"

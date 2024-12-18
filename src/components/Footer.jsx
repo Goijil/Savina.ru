@@ -3,7 +3,7 @@ import { Svg } from "./Svg";
 export function Footer() {
   return (
     <>
-      <div className="w-screen bg-FooterColor3 p-16 border-t-2 border-t-Beige flex flex-col gap-20">
+      <div className="w-full bg-FooterColor3 p-16 border-t-2 border-t-Beige flex flex-col gap-20">
         <div className="flex justify-around">
           <div className="">
             <iframe

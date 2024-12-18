@@ -1,7 +1,7 @@
 export function Block_4() {
   return (
     <>
-      <div id="2" className="px-10 grid grid-cols-2">
+      <div id="2" className="px-10">
         <div className="bg-Beige p-10">
           <h1 className="2xl:text-6xl xl:text-5xl lg:text-4xl md:text-3xl sm:text-2xl text-2xl font-Sexsmith text-DarkGreen">
             О методе:
